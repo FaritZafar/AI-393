@@ -1,7 +1,7 @@
 import numpy as np
 import sklearn as sk
 import pandas as pd
-#hey
+
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import KNeighborsClassifier
