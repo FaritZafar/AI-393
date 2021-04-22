@@ -1,5 +1,5 @@
 
-AI Project 
+AI Project Report
 Submitted to: Sir Farooq Zaidi 
 Submitted By: Farit Ali Zafar (63095)
 Sumair Ansar (63006)
