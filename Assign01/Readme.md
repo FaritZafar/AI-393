@@ -42,6 +42,8 @@ This algorithm have some unique performance purposes it is mainly used for big d
 Discription of important parts of your .py file. 
 We have used libraries which we have learned in lab class as well as theory class. In KNN,SVM,MultinomialNB we have used the code with the help of lab class and the one which Sir have helped us with and demonstrated. We have implemented the code with a help of our understanding.
 
+Convulation is acheived by applying it again and again on the test file untill our desired result it obtained i.e. maximum accuracy.
+
 The contribtuion of myself (Farit) is that I have code the SVM, KNN and MultinomialNB and also the weighted code of all these algorithm i.e convulation of KNN, SVM and MultinomialKB in 5x5, 7x7 and 9x9 and also weighted convulation of KNN 5x5 , 7x7 , 9x9 ,SVM 5x5, 7x7, 9x9 and MultinomailNB 5x5, 7x7, 9x9, while Sumair Ansar has contribtuted with me in KNN7,7 , SVM7,7 and MultinomialNB 7,7 while on the other hand Ali Naeem has also contributed with me in KNN5,5 , SVM5,5 nad MultinomialNB5,5.
 
-To achieve 1 accuracy we will need to use tensor flow and other deep learning techniques which is beyond the scope of our Artificial intelligence course
+To achieve 1 accuracy we will need to use tensor flow and other deep learning techniques which we have not studied untill now.
