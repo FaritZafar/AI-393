@@ -7,7 +7,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
-#hello
+
 def convolve2D(image, filter):
   fX, fY = filter.shape 
   fNby2 = (fX//2) 
