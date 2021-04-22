@@ -4,6 +4,9 @@ Submitted to: Sir Farooq Zaidi
 Submitted By: Farit Ali Zafar (63095)
 Sumair Ansar (63006)
 Ali Naeem Sheikh 
+
+
+
 KNN:
 The KNN is k-nearest neighbors’ algorithm it is a most unique and simple algo it is also used in machine learning so we can used for both the problems known as classification and regression. The most unique part it is easy to implement and easy to get. But it has a issue it is slow and the size of the data use to grows.
 
