@@ -1,7 +1,7 @@
 
 AI Project 
 Submitted to: Sir Farooq Zaidi 
-Submitted By: Farit Ali Zafar (63095)
+Submitted By: Farit Ali Zafar (63095) - Group Leader
 Sumair Ansar (63006)
 Ali Naeem Sheikh 
 
